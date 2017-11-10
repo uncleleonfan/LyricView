@@ -1,0 +1,5 @@
+<resources>
+
+    <string name="lyric_not_found">Lyric Not Found</string>
+    <string name="loading_lyric">Loading Lyric&#8230;</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+
+    <string name="lyric_not_found">歌词未找到</string>
+    <string name="loading_lyric">正在加载歌词&#8230;</string>
+</resources>
