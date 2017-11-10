@@ -3,7 +3,6 @@ package com.leon.lyriclib;
 import android.support.annotation.NonNull;
 import android.util.Log;
 
-import com.itheima.mvplayer.model.LyricBean;
 
 import java.io.BufferedReader;
 import java.io.File;
